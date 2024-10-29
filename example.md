@@ -23,6 +23,7 @@ vimやnanoでファイルを作成、編集し、それをバージョン管理�
 コミットまでの流れ
 vi example.md　で作成or編集。
 git add example.md　でステージングに入れ、コミットの準備。
+git status gitのステータスを確認。
 git diff　追記部分の確認。
 git commit -m '説明文'　コミットし、説明文の部分に説明文を書き入れる。
 git log　でgitのlogを確認する。
