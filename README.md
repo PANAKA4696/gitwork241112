@@ -3,4 +3,7 @@
 
 こんにちは
 
-Hello github!! 
+Hello github!!
+
+ようやくできました。
+１回目の追加文 
